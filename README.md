@@ -4,10 +4,17 @@
  ## SVG
  
  SVG to Data URI Converter  
- https://yoksel.github.io/url-encoder/(https://yoksel.github.io/url-encoder/)
+ https://yoksel.github.io/url-encoder/  
+ 
+ SVGOMG - Optimize and minify SVG images  
+ https://svgomg.net/
+ 
+ 
+ SVGOMG  
+ https://jakearchibald.github.io/svgomg/
 
 
 ## IMAGE
 
 TinyJPG. Smart WebP, JPEG and PNG compression  
-https://tinyjpg.com/(https://tinyjpg.com/)
+https://tinyjpg.com/
