@@ -12,6 +12,15 @@
  
  SVGOMG  
  https://jakearchibald.github.io/svgomg/
+ 
+ SVG Viewer  
+ https://www.svgviewer.dev/
+ 
+ 
+## ICONS
+
+All icons in one place  
+https://icones.js.org/
 
 
 ## IMAGE
