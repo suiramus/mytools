@@ -3,5 +3,5 @@
  
  #SVG
  
- SVG to Data URI Converter
+ SVG to Data URI Converter  
  https://yoksel.github.io/url-encoder/(https://yoksel.github.io/url-encoder/)
