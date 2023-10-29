@@ -22,8 +22,7 @@
 All icons in one place  
 https://icones.js.org/
 
-Iconoir | Free Icons
-
+Iconoir | Free Icons  
 https://iconoir.com/
 
 ## IMAGE
