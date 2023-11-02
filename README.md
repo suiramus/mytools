@@ -32,6 +32,7 @@ https://tinyjpg.com/
 
 ## Wordpress Themes
 Anders Norén Themes 
-https://github.com/andersnoren?tab=repositories 
-https://andersnoren.se/teman/ 
+https://github.com/andersnoren?tab=repositories
+https://andersnoren.se/teman/
+
 
