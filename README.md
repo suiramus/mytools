@@ -27,3 +27,11 @@ https://icones.js.org/
 
 TinyJPG. Smart WebP, JPEG and PNG compression  
 https://tinyjpg.com/
+
+## FONTS
+
+google-webfonts-helper  
+https://gwfh.mranftl.com/fonts  
+https://github.com/majodev/google-webfonts-helper
+
+
