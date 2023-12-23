@@ -22,16 +22,34 @@
 All icons in one place  
 https://icones.js.org/
 
+Iconoir | Free Icons  
+https://iconoir.com/
 
 ## IMAGE
 
 TinyJPG. Smart WebP, JPEG and PNG compression  
 https://tinyjpg.com/
 
+<<<<<<< HEAD
 ## FONTS
 
 google-webfonts-helper  
 https://gwfh.mranftl.com/fonts  
 https://github.com/majodev/google-webfonts-helper
 
+
+=======
+## Wordpress Themes
+Anders Norén Themes  
+https://github.com/andersnoren?tab=repositories  
+https://andersnoren.se/teman/
+
+
+## Online Tools
+
+TinyHelpers  
+https://tiny-helpers.dev/  
+
+All Online Tools in “One Box”  
+https://10015.io/  
 
