@@ -20,7 +20,7 @@
  
  ----------
  
-### ICONS
+### Icons
 
 All icons in one place  
 https://icones.js.org/
@@ -30,14 +30,14 @@ https://iconoir.com/
 
 ----------
 
-### IMAGE
+### Image
 
 TinyJPG. Smart WebP, JPEG and PNG compression  
 https://tinyjpg.com/
 
 ----------
 
-### FONTS
+### Fonts
 
 google-webfonts-helper  
 A Hassle-Free Way to Self-Host Google Fonts
@@ -89,6 +89,10 @@ https://tiny-helpers.dev/
 All Online Tools in “One Box”  
 https://10015.io/  
 
+Undesign
+Collection of free design tools and resources for makers, developers and designers
+https://undesign.learn.uno/
+
 ----------
 
 ## Inspiration
@@ -108,3 +112,12 @@ https://builtformars.com/ux-glossary?variables=e30%3D
 
 Visual Studio Code Snippets – the Definitive VS Code Snippet Guide for Beginners
 https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/
+
+----------
+
+## Magazines
+
+SmashingMagazine
+https://www.smashingmagazine.com/
+
+
