@@ -1,7 +1,9 @@
-# mytools
+# MyTools
  Tools for web development
  
- ## SVG
+ ----------
+ 
+ ### SVG
  
  SVG to Data URI Converter  
  https://yoksel.github.io/url-encoder/  
@@ -16,8 +18,9 @@
  SVG Viewer  
  https://www.svgviewer.dev/
  
+ ----------
  
-## ICONS
+### ICONS
 
 All icons in one place  
 https://icones.js.org/
@@ -25,25 +28,29 @@ https://icones.js.org/
 Iconoir | Free Icons  
 https://iconoir.com/
 
-## IMAGE
+----------
+
+### IMAGE
 
 TinyJPG. Smart WebP, JPEG and PNG compression  
 https://tinyjpg.com/
 
-<<<<<<< HEAD
-## FONTS
+----------
+
+### FONTS
 
 google-webfonts-helper  
 https://gwfh.mranftl.com/fonts  
 https://github.com/majodev/google-webfonts-helper
 
+----------
 
-=======
 ## Wordpress Themes
 Anders Norén Themes  
 https://github.com/andersnoren?tab=repositories  
 https://andersnoren.se/teman/
 
+----------
 
 ## Online Tools
 
@@ -53,3 +60,11 @@ https://tiny-helpers.dev/
 All Online Tools in “One Box”  
 https://10015.io/  
 
+----------
+
+## Articles
+UX Glossary: 51 psychological biases, design principles and UX concepts
+https://builtformars.com/ux-glossary?variables=e30%3D
+
+Visual Studio Code Snippets – the Definitive VS Code Snippet Guide for Beginners
+https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/
