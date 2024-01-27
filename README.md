@@ -90,9 +90,9 @@ https://tiny-helpers.dev/
 https://10015.io/  
 
 **Omatsuri**
-Open source browser tools for everyday use
-https://omatsuri.app/
-https://github.com/rtivital/Omatsuri
+Open source browser tools for everyday use 
+https://omatsuri.app/ 
+https://github.com/rtivital/Omatsuri 
 Triangle generator > Color shades generator
 Gradient generator > Page dividers
 SVG compressor >  SVG → JSX
@@ -104,6 +104,6 @@ CSS cursors >  Keyboard events codes
 
 **DevDocs**
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
-https://devdocs.io/
-https://github.com/freeCodeCamp/devdocs
+https://devdocs.io/ 
+https://github.com/freeCodeCamp/devdocs 
 
