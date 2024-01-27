@@ -100,6 +100,8 @@ Base64 encoding >  Fake data generator
 Symbols collection >  Lorem ipsum  
 CSS cursors >  Keyboard events codes  
 
+----------
+
 ## Documentation
 
 **DevDocs**  
@@ -113,11 +115,13 @@ https://github.com/freeCodeCamp/devdocs
 **PHP cheatsheet: ** https://quickref.me/php  
 **Google Search cheatsheet: ** https://quickref.me/google-search  
 
+----------
+
  ## Magazine
  https://www.smashingmagazine.com/  
  https://speckyboy.com/  
  https://www.webdesignerdepot.com/  
  https://css-tricks.com/  
  
-
+----------
 
