@@ -102,8 +102,14 @@ CSS cursors >  Keyboard events codes
 
 ## Documentation
 
-**DevDocs**
+**DevDocs**  
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 https://devdocs.io/  
 https://github.com/freeCodeCamp/devdocs  
+
+#### QuickRef.ME
+**JavaScript cheatsheet**  
+https://quickref.me/javascript  
+**CSS 3 cheatsheet**  
+https://quickref.me/css3  
 
