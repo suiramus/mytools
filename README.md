@@ -89,8 +89,21 @@ https://tiny-helpers.dev/
 **All Online Tools in “One Box”**
 https://10015.io/  
 
+**Omatsuri**
+Open source browser tools for everyday use
+https://omatsuri.app/
+https://github.com/rtivital/Omatsuri
+Triangle generator > Color shades generator
+Gradient generator > Page dividers
+SVG compressor >  SVG → JSX
+Base64 encoding >  Fake data generator
+Symbols collection >  Lorem ipsum
+CSS cursors >  Keyboard events codes
+
+## Documentation
 
 **DevDocs**
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 https://devdocs.io/
 https://github.com/freeCodeCamp/devdocs
+
