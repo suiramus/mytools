@@ -113,6 +113,11 @@ https://github.com/freeCodeCamp/devdocs
 **PHP cheatsheet: ** https://quickref.me/php  
 **Google Search cheatsheet: ** https://quickref.me/google-search  
 
+ ## Magazine
+ https://www.smashingmagazine.com/  
+ https://speckyboy.com/  
+ https://www.webdesignerdepot.com/  
+ https://css-tricks.com/  
  
 
 
