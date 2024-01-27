@@ -108,8 +108,11 @@ https://devdocs.io/
 https://github.com/freeCodeCamp/devdocs  
 
 #### QuickRef.ME
-**JavaScript cheatsheet**  
-https://quickref.me/javascript  
-**CSS 3 cheatsheet**  
-https://quickref.me/css3  
+**JavaScript cheatsheet:** https://quickref.me/javascript  
+**CSS 3 cheatsheet: ** https://quickref.me/css3  
+**PHP cheatsheet: ** https://quickref.me/php  
+**Google Search cheatsheet: ** https://quickref.me/google-search  
+
+ 
+
 
