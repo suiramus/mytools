@@ -104,6 +104,6 @@ CSS cursors >  Keyboard events codes
 
 **DevDocs**
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
-https://devdocs.io/ 
+https://devdocs.io/
 https://github.com/freeCodeCamp/devdocs 
 
