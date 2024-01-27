@@ -1,6 +1,6 @@
 # MyTools
- Tools for web development
- Just bookmarks
+ Tools for web development  
+ Just bookmarks  
  
  ----------
  
@@ -23,7 +23,7 @@
 ### Icons
 
 All icons in one place  
-https://icones.js.org/
+https://icones.js.org/  
 
 Iconoir | Free Icons  
 https://iconoir.com/
@@ -39,34 +39,34 @@ https://tinyjpg.com/
 
 ### Fonts
 
-google-webfonts-helper  
-A Hassle-Free Way to Self-Host Google Fonts
+**google-webfonts-helper**  
+A Hassle-Free Way to Self-Host Google Fonts  
 https://gwfh.mranftl.com/fonts  
-https://github.com/majodev/google-webfonts-helper
+https://github.com/majodev/google-webfonts-helper  
 
 ----------
 
 ### Lightboxes
 
 ##### PhotoSwipe
-JavaScript image gallery and lightbox
-https://photoswipe.com/
-https://github.com/dimsemenov/photoswipe
+JavaScript image gallery and lightbox  
+https://photoswipe.com/  
+https://github.com/dimsemenov/photoswipe  
 
 ##### VenoBox
-Just another Vanilla JS Lightbox plugin, suitable for Images, Videos, Inline contents, iFrames, Ajax requests.
-https://veno.es/venobox/
-https://github.com/nicolafranchini/VenoBox
+Just another Vanilla JS Lightbox plugin, suitable for Images, Videos, Inline contents, iFrames, Ajax requests.  
+https://veno.es/venobox/  
+https://github.com/nicolafranchini/VenoBox  
 
 ##### GLightbox.
-Code name "Gie" A touchable Pure Javascript lightbox with mobile and video support.
-https://biati-digital.github.io/glightbox/
-https://github.com/biati-digital/glightbox
+Code name "Gie" A touchable Pure Javascript lightbox with mobile and video support.  
+https://biati-digital.github.io/glightbox/  
+https://github.com/biati-digital/glightbox  
 
 ##### Chocolat.js
-A free lightbox plugin, light, responsive, powerful.
-http://chocolat.insipi.de/
-https://github.com/nicolas-t/Chocolat
+A free lightbox plugin, light, responsive, powerful.  
+http://chocolat.insipi.de/  
+https://github.com/nicolas-t/Chocolat  
 
 
 ----------
@@ -90,20 +90,20 @@ https://tiny-helpers.dev/
 https://10015.io/  
 
 **Omatsuri**
-Open source browser tools for everyday use 
-https://omatsuri.app/ 
-https://github.com/rtivital/Omatsuri 
-Triangle generator > Color shades generator
-Gradient generator > Page dividers
-SVG compressor >  SVG → JSX
-Base64 encoding >  Fake data generator
-Symbols collection >  Lorem ipsum
-CSS cursors >  Keyboard events codes
+Open source browser tools for everyday use  
+https://omatsuri.app/  
+https://github.com/rtivital/Omatsuri  
+Triangle generator > Color shades generator  
+Gradient generator > Page dividers  
+SVG compressor >  SVG → JSX  
+Base64 encoding >  Fake data generator  
+Symbols collection >  Lorem ipsum  
+CSS cursors >  Keyboard events codes  
 
 ## Documentation
 
 **DevDocs**
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
-https://devdocs.io/
-https://github.com/freeCodeCamp/devdocs 
+https://devdocs.io/  
+https://github.com/freeCodeCamp/devdocs  
 
