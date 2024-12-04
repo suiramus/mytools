@@ -6,6 +6,10 @@
  
  ### SVG
  
+SVG URL Encoder  
+https://cssunitconverter.vercel.app/tools/svg-url-encoder  
+
+ 
  SVG to Data URI Converter  
  https://yoksel.github.io/url-encoder/  
  
