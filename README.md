@@ -20,6 +20,12 @@
  
  ----------
  
+### Generators
+
+https://utopia.fyi/  
+
+
+ 
 ### Icons
 
 All icons in one place  
@@ -118,10 +124,15 @@ https://github.com/freeCodeCamp/devdocs
 ----------
 
  ## Magazine
- https://www.smashingmagazine.com/  
- https://speckyboy.com/  
- https://www.webdesignerdepot.com/  
- https://css-tricks.com/  
- 
+https://www.smashingmagazine.com/  
+https://speckyboy.com/  
+https://www.webdesignerdepot.com/  
+https://css-tricks.com/  
+https://www.joshwcomeau.com/css/  
+https://ishadeed.com/articles/  
+https://wattenberger.com/  
+
+https://set.studio/blog/  
+
 ----------
 
