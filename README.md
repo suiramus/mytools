@@ -31,6 +31,8 @@ Fluid type scale calculator, Fluid Space Calculator,
 Fluid Grid Calculator,  Clamp Calculator  
 https://utopia.fyi/  
 
+#### Gradient generator
+https://www.joshwcomeau.com/gradient-generator/  
 
  
 ### Icons
