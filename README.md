@@ -2,7 +2,19 @@
  Tools for web development  
  Just bookmarks  
  
+ __Markdown Basic Syntax__ https://www.markdownguide.org/basic-syntax/
+ 
  ----------
+ 
+ ### Usual tools 
+ 
+- SVG OMG https://jakearchibald.github.io/svgomg/
+- URL Encoder for SVG https://yoksel.github.io/url-encoder/
+- **Fluid Typography Calculator** https://royalfig.github.io/fluid-typography-calculator/ 
+- Clamp() Function Calculator https://www.marcbacon.com/tools/clamp-calculator/
+- Utopia Fluid Type Scale Calculator https://utopia.fyi/type/calculator/
+- TinyJPG https://tinyjpg.com/ 
+
  
  ### SVG
  
