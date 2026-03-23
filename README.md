@@ -59,7 +59,7 @@ https://icones.js.org/
 Iconoir | Free Icons  
 https://iconoir.com/
 
-Lucide Icons: https://lucide.dev/ 
+Lucide Icons: https://lucide.dev/  
 Icons to bacground-image: https://yoksel.github.io/url-encoder/ 
 
 ----------
